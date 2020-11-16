@@ -26,6 +26,7 @@
           </th>
         </tr>
       </thead>
+      <slot name="tfoot" />
     </table>
   </div>
 </template>
